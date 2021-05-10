@@ -54,6 +54,7 @@ Customizer
 Data
 DC
 de
+debug
 Detection
 dlh
 Documents
@@ -126,6 +127,7 @@ navbar
 navigations
 nestable
 Newsletter
+newslist
 Notification
 notification
 Open

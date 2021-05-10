@@ -3,6 +3,7 @@ Allgäu
 ajax
 Ajax
 Akeneo
+AlleAktien
 Alpdesk
 amp
 Analytics
@@ -17,6 +18,7 @@ AuthCode
 AWC
 Back end
 back end
+Backend
 Barcode
 barcode
 Bayerischer
@@ -27,6 +29,7 @@ Bulma
 bundle
 Bundle
 Bundles
+Burns
 Bynder
 Catalog
 ChangeLanguage
@@ -56,6 +59,7 @@ DMS
 DOM
 DOMPDF
 DownloadMail
+DSGVO
 eCommerce
 Einzelhandelsgeschäfte
 Edition
@@ -79,6 +83,7 @@ Feed
 fieldset
 Fieldset
 Flex
+Flower
 Footer
 FOSSGIS
 Foundation
@@ -95,6 +100,7 @@ geocoding
 GeoIP
 getLaw
 getlaw
+GDPR
 GIS
 gis
 GitHub
@@ -104,6 +110,9 @@ google
 googlemaps
 GPX
 Graphhopper
+gutes
+gutesio
+gutes.io
 Hofff
 hofff
 Host
@@ -115,6 +124,7 @@ iFrame
 Immobilienbörse
 ImmobilienScout
 Immobilienunternehmen
+Indie
 InsertTags
 Instagram
 Inszenium
@@ -129,6 +139,7 @@ jQuery
 js
 JSON
 JWT
+Ken
 Klarna
 KlickTipp
 KML
@@ -200,16 +211,19 @@ png
 Podcasts
 POIs
 QR
+Quantitativ
 React
 README
 Reddit
 Reload
 REST
+Roboto
 RockSolid
 Rocksolid
 rocksolid
 rss
 RSS
+Sans
 SCSS
 SEO
 Selling
@@ -229,13 +243,16 @@ sql
 start
 Start
 Stardate
+Sticky
 storeFormData
 StoreLocator
 Stylesheet
 stylesheet
 svg
+Swiper
 Symfony
 SysCara
+Tangerine
 tawk
 TCPDF
 Template
@@ -248,6 +265,7 @@ ThemeManager
 theme
 Themes
 Timeline
+Tiny
 TinyJPG
 TinyMCE
 TinyPNG

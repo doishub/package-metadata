@@ -4,6 +4,7 @@ Accordion
 Active
 Admins
 Adress
+Addresses
 Advanced
 ajaxpagenierung
 AjaxPagination
@@ -14,6 +15,7 @@ alone
 AMPHTML
 Amphtml
 amphtml
+Anbieterseiten
 Anfahrtskarten
 Animated
 Animations
@@ -38,6 +40,7 @@ Avatar
 Avatare
 Backend
 Backendmodul
+Badge
 base
 Basisbibliotheken
 Baumstruktur
@@ -53,6 +56,7 @@ Benutzergruppen
 Benutzernamen
 Berechnungsarten
 Besuchererweiterung
+Betreiberseiten
 Bewertungssystem
 Bilddatenbank
 Bildergalerie
@@ -85,7 +89,9 @@ categories
 center
 Circle
 Classes
+Click
 Collapse
+Collect
 Columns
 Components
 con
@@ -131,6 +137,7 @@ Datensichten
 Datenvervollständigung
 DC
 de
+Debug
 Detailansicht
 Detailinhalt
 Detailseite
@@ -145,6 +152,7 @@ Dritterweiterungen
 Drittstaatentransfer
 Duplication
 EasyThemes
+Edit
 Editing
 Eingabeprüfung
 Einrichtungsassistent
@@ -152,6 +160,7 @@ Einstellungsmöglichkeiten
 Einverständniserklärungen
 Einwilligungsdaten
 Einwilligungseinstellungen
+Elternelement
 Empfängerlisten
 Endgeräte
 Endgeräten
@@ -237,6 +246,7 @@ Groups
 hard
 Hardwarebeschleunigung
 Hauptarchivs
+Hauptbaustein
 Hauptkonfigurationen
 Hauptsprache
 Have
@@ -318,6 +328,7 @@ Leserseite
 Leuchtkästen
 Libraries
 Lieblingsinhalte
+Lieferadresse
 Lieferanschrift
 LinkedIn
 Linksammlungen
@@ -362,6 +373,7 @@ Mitgliedergruppe
 Mitgliedergruppen
 mobilfähig
 mobilfähige
+Model
 Moduleinstellungen
 Modultyp
 Monitoring
@@ -472,6 +484,7 @@ Root
 Routenplaner
 Routenplanung
 Schaltfläche
+Schaufensterlisten
 Scheduler
 SCR
 Scripte
@@ -499,6 +512,8 @@ Sibling
 Sichtbarkeiten
 Slave
 Slider
+Sliders
+Slides
 Social
 Socialmedia
 sogenannte
